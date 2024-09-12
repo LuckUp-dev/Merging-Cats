@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eae84d8ad340e4149933460c5930d518
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BurfordRusticLine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a46e796a24fc3ab4c98502b50f0086c6, type: 3}
+  - {fileID: 12800000, guid: f4f49c19fbfc0cd42882db9ba4947d93, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

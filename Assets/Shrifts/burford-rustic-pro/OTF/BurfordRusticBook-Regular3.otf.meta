@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 12771ffc0d23b1a4b8e3a25dd38ea260
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BurfordRusticBook
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0298685855cc2ce41a96577b1f5ed605, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
